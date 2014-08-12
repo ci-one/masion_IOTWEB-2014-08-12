@@ -1,0 +1,23 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
+ *{font-family:'Nanum Gothic', sans-serif; }
+
+.top-bg{background:url('../images/top_bg.png') no-repeat 0 0; background-color:#fff;}
+.log{float:right; padding-right:15px;}
+.log a{ color:#2d1911;}
+
+h3{font-family:'Nanum Gothic', sans-serif; font-size:1.4em; color:#714f29; font-weight:bold;}
+.pager01{margin:30px 0 0;}
+.pager01 .active{color:#bd4848;}
+.pager01 li{font-size:1em; font-size:0.8em;}
+.pager01 li a{color:#2d1911;}
+.pager01 li a:hover{text-decoration:none;}
+.line-bottom{border-bottom:2px solid #795936;}
+
+
+
+.item img{
+    height: 235px;
+    border: 2px solid #6e471d;
+}
+
