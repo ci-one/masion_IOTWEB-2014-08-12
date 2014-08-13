@@ -35,13 +35,15 @@ img.bullet{
     margin-left:15px;
 }
 .nav>li>a{
-    font-size: 1.5em;
+    font-size: 1.2em;
+    /*font-family: nanumgothic-bold;*/
+    font-family: "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
     
 }
 
 .nav>li>a:hover, .nav>li>a:focus{
     background-color: transparent;
-    font-size: 1.5em;
+    font-size: 1.2em;
 }
 
 .container{
