@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
 
  *{font-family:'Nanum Gothic', sans-serif; }
-body{padding-bottom:60px;}
+body{padding-bottom:60px;overflow: scroll;}
 /*iframe{
 	-webkit-user-select: none; cursor: -webkit-zoom-in;
 }*/

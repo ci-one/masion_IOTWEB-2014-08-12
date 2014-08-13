@@ -84,7 +84,7 @@ angular.module('maisonApp')
                 //  ,controller: 'Somewhat Controller'
             })
             .when('/requestList', {
-                templateUrl: '/views/1400-request/050-1410-requestWrite.html'
+                templateUrl: '/views/1400-request/050-1410-requestList.html'
                 //  ,controller: 'Somewhat Controller'
             })
             .when('/requestDetail', {
